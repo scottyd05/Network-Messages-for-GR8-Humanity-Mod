@@ -1,4 +1,3 @@
-////CfgNetworkMessagesAdded.cpp
 
 //drop this in the root mission file and add this to description.ext inside CfgNetworkMessages (#include "CfgNetworkMessagesAdded.cpp")
 
